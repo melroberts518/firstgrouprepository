@@ -2,10 +2,16 @@ body{
     background-color: aqua; }
 
 h1{
+    text-align: center;
     flex-wrap: wrap;
     color: blueviolet ;
     border: dashed;
     font-style: oblique;
+    font-display: center;
     font-size: width 90px height 70px;
     
+}
+
+img{
+    size: 10,10;
 }
