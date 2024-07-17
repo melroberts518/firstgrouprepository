@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body {
     background-color: black;
 }
@@ -7,4 +8,22 @@ body {
     font-optical-sizing: auto;
     font-weight: <weight>;
     font-style: normal;
+=======
+body{
+    background-color: aqua; }
+
+h1{
+    text-align: center;
+    flex-wrap: wrap;
+    color: blueviolet ;
+    border: dashed;
+    font-style: oblique;
+    font-display: center;
+    font-size: width 90px height 70px;
+    
+}
+
+img{
+    size: 10,10;
+>>>>>>> 120772a0791cead7899441cbc52a421fe3de0bc6
 }
